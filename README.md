@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**emmenezes/emmenezes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' alt="Non-binary heart" src="https://media.giphy.com/media/RKN7yDEExVC5t8TJPd/source.gif" width="130"/>
 
-Here are some ideas to get you started:
+#### About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✨ My name is Eduarda, but I prefer to be called Emme
+- 📚 I study Electric Engineering at the University of Brasília
+- 💬 Ask me about science fiction, novel writing or roller skating 
+
+#### What I am doing
+
+- 🌱 I’m currently learning Django
+- 👯 I'm looking to collaborate on  documentation translation
