@@ -5,7 +5,7 @@
 #### About me
 
 - ✨ My name is Eduarda, but I prefer to be called Emme
-- 📚 I study Electric Engineering at the University of Brasília
+- 📚 I study Electrical Engineering at the University of Brasília
 - 💬 Ask me about science fiction, novel writing or roller skating 
 
 #### What I am doing
