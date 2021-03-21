@@ -12,7 +12,7 @@
 #### O que estou fazendo
 
 - 🌱 Estou trabalhando com Django
-- ✨ Faço parte da BOSS - Big Open Source Sibling
+- ✨ Faço parte da [BOSS - Big Open Source Sibling](https://github.com/BOSS-BigOpenSourceSibling)
 - 👯 Desejo colaborar com tradução de materiais
 - 💻 Estou aprendendo sobre Assembly RISC-V
 
