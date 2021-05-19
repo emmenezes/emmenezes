@@ -19,7 +19,7 @@
 
 ### Hi there 👋
 
-<img align='right' alt="Non-binary heart" src="https://media.giphy.com/media/RKN7yDEExVC5t8TJPd/source.gif" width="130"/>
+<img align='right' alt="Coração com as cores da bandeira não-binária" src="https://media.giphy.com/media/RKN7yDEExVC5t8TJPd/source.gif" width="130"/>
 
 #### About me
 
@@ -31,3 +31,8 @@
 
 - 🌱 I’m currently learning Django
 - 👯 I'm looking to collaborate on  documentation translation
+
+
+
+![Meus status](https://github-readme-stats.vercel.app/api?username=emmenezes)
+
