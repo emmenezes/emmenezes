@@ -34,5 +34,5 @@
 
 
 
-![Meus status](https://github-readme-stats.vercel.app/api?username=emmenezes)
+![Meus status no GitHub. Total de estrelas: 0. Total de commits em 2021: 29. Total de PRs: 12. Total de Issues: 11. Contribuiu para: 7. Rank: A+](https://github-readme-stats.vercel.app/api?username=emmenezes)
 
