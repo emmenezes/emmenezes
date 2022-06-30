@@ -5,16 +5,16 @@
 #### Sobre mim
 
 - ✨ Pode me chamar de Emme, e uso qualquer pronome
-- 📚 Eu estudo Engenharia na Universidade de Brasília
+- 📚 Eu estudo Engenharia da Commputação na Universidade de Brasília
 - 💬 Amo conversar sobre jogos, crochê, escrita e patinação
 
 
 #### O que estou fazendo
 
-- 🌱 Estou trabalhando com Django
+- 🌱 Estou estudando tecnologias de backend, Django e Ruby
 - ✨ Faço parte da [BOSS - Big Open Source Sibling](https://github.com/BOSS-BigOpenSourceSibling)
-- 👯 Desejo colaborar com tradução de materiais
-- 💻 Estou aprendendo sobre Assembly RISC-V
+> Programa de mentoria que visa engajar grupos sub-representados para contribuir para Open Source
+- 🚀 Estou desenvolvendo minhas habilidades em [Programação Competitiva](https://github.com/emmenezes/programacao-competitiva)
 
 
 ### Hi there 👋
@@ -24,14 +24,15 @@
 #### About me
 
 - ✨ Please, call me Emme, any pronouns
-- 📚 I study Engineering at the University of Brasília
-- 💬 Ask me about games, novel writing or roller skating 
+- 📚 I study Computer Engineering at the University of Brasília (Brazil)
+- 💬 Ask me about games, novel writing, or roller skating 
 
 #### What I am doing
 
-- 🌱 I’m currently learning Django
-- 👯 I'm looking to collaborate on  documentation translation
-
+- 🌱 I’m currently learning backend, Django, and Ruby
+- ✨ I participate in [BOSS - Big Open Source Sibling](https://github.com/BOSS-BigOpenSourceSibling)
+> Mentorship program to engage sub-represented groups to collaborate in Open Source
+- 🚀 I'm improving my habilities in [Competitive Programming](https://github.com/emmenezes/programacao-competitiva)
 
 
 ![Meus status no GitHub. Total de estrelas: 0. Total de commits em 2021: 29. Total de PRs: 12. Total de Issues: 11. Contribuiu para: 7. Rank: A+](https://github-readme-stats.vercel.app/api?username=emmenezes)
