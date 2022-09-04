@@ -34,6 +34,6 @@
 > Mentorship program to engage sub-represented groups to collaborate in Open Source
 - 🚀 I'm improving my skills in [Competitive Programming](https://github.com/emmenezes/programacao-competitiva)
 
-
-![Meus status no GitHub. Total de estrelas: 0. Total de commits em 2021: 29. Total de PRs: 12. Total de Issues: 11. Contribuiu para: 7. Rank: A+](https://github-readme-stats.vercel.app/api?username=emmenezes)
+![Status no GitHub](https://github-readme-stats.vercel.app/api?username=emmenezes)
+[![Top linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=emmenezes&langs_count=8&layout=compact)](https://github.com/emmenezes/github-readme-stats)
 
