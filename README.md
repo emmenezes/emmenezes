@@ -12,8 +12,8 @@
 #### O que estou fazendo
 
 - 🌱 Estou estudando tecnologias de mobile, React Native
-- 🤖 Faço parte da equipe de competição [UnBall](https://unball.github.io/)
-- ✨ Faço parte da [BOSS - Big Open Source Sibling](https://github.com/BOSS-BigOpenSourceSibling), onde estou estudando sobre [Visão Computacional](https://github.com/emmenezes/estudos_vc) e [Interface Gráfica](https://github.com/emmenezes/estudos_gtk)
+- 🤖 Faço parte da equipe de competição [UnBall](https://unball.github.io/), onde estou estudando sobre [Visão Computacional](https://github.com/emmenezes/estudos_vc) e [Interface Gráfica](https://github.com/emmenezes/estudos_gtk)
+- ✨ Faço parte da [BOSS - Big Open Source Sibling](https://github.com/BOSS-BigOpenSourceSibling)
 > Programa de mentoria que visa engajar grupos sub-representados para contribuir para Open Source
 - 🚀 Estou desenvolvendo minhas habilidades em [Programação Competitiva](https://github.com/emmenezes/programacao-competitiva)
 
